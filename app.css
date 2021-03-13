@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+#Result1 {
+    text-align: center;
+}
+
+#Result2 {
+    text-align: center;
+}
+
+.button1 {
+    color: green;
+}
+
+.button2 {
+    color: orange;
+}
+
+.button3 {
+    color: blue;
+}
+
+.button4 {
+    color: red;
+}
+
+.button5 {
+    color: black;
+}
+
+.button5 {
+    color: green;
+}
